@@ -1,2 +1,2 @@
 #!/bin/bsah
-grep -A 3 root /etc/passwd
+greap -i -A 3 "root" /etc/passwd
